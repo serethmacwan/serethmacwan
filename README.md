@@ -5,7 +5,8 @@
 - 📫 Reach me at hi@serethmacwan.com
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=serethmacwan&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=serethmacwan&layout=compact)
+<br>
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=serethmacwan&layout=compact&theme=highcontrast&show_icons=true&count_private=true)
 
 
 
