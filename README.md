@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @serethmacwan
 - 👀 I’m interested in Computers, Music, and Nature
-- 🌱 I’m currently learning C++ and Python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on developing my programming skills
 - 📫 Reach me at hi@serethmacwan.com
 
